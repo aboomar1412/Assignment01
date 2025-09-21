@@ -17,3 +17,14 @@ let greeting = "Hello " + "World";  // string concatenation
 console.log(sum);
 console.log(greeting);
 
+//STEP 4 – Declare 9 variables
+let strFirstName;
+let strLastName;
+let strAddress;
+let strCity;
+let strState;
+let numZipCode;
+let numYourAge;
+let strReferralSource;
+let boolMayWeContactYou;
+
