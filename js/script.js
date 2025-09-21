@@ -89,3 +89,7 @@ let name = prompt('What is your name?');
 let course = prompt('What class are you taking?');
 alert('Hello ' + name + '.\nWelcome to the ' + course + ' class!');
 
+// STEP 17 - declare two numbers
+let x = 10;
+let y = 20;
+console.log(x + y);
