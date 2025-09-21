@@ -109,3 +109,7 @@ let x = 20 % 3;
 x /= 1;
 console.log(x);
 
+// STEP 21 - set of Comparison and Logical operators
+let result1 = (10 > 5) && (true);
+console.log(result1);
+
