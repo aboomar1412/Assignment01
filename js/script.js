@@ -98,3 +98,9 @@ console.log(x + y);
 let x = 20;
 x += 20;
 console.log(x);
+
+// STEP 19 - multiply and assign
+let x = 20;
+x *= 5;
+console.log(x);
+
