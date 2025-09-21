@@ -65,3 +65,7 @@ console.log(typeof undefined);
 //STEP 11 – Alert with concatenation
 alert("Hello " + "Zak Ruvalcaba" + ", welcome to the JavaScript class!");
 
+// STEP 12 - Using a variable
+let name = 'Zak Ruvalcaba';
+alert('Hello ' + name + ', welcome to the JavaScript class!');
+
