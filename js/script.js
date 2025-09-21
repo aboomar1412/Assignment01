@@ -104,3 +104,8 @@ let x = 20;
 x *= 5;
 console.log(x);
 
+// STEP 20 - divide and assign
+let x = 20 % 3;
+x /= 1;
+console.log(x);
+
