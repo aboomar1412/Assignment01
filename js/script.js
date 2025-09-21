@@ -37,4 +37,9 @@ let strCity = new String("San Diego");
 let mixed = 10 + " years";
 console.log(mixed); // "10 years"
 
+//STEP 7 – Boolean + string, Number + Boolean
+let result1 = true + " is truthy";
+console.log(result1);
 
+let result2 = 5 + true; 
+console.log(result2); 
