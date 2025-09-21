@@ -33,4 +33,8 @@ let strFirstName = "Eias";
 let strLastName; strLastName = "Homsi"; 
 let strCity = new String("San Diego"); 
 
+//STEP 6 – Number + string
+let mixed = 10 + " years";
+console.log(mixed); // "10 years"
+
 
