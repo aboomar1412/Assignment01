@@ -69,3 +69,8 @@ alert("Hello " + "Zak Ruvalcaba" + ", welcome to the JavaScript class!");
 let name = 'Zak Ruvalcaba';
 alert('Hello ' + name + ', welcome to the JavaScript class!');
 
+//STEP 13 – Using variables for both name & course
+let name = "Zak Ruvalcaba";
+let course = "JavaScript";
+alert("Hello " + name + ", welcome to the " + course + " class!");
+
