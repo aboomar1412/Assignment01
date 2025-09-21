@@ -79,4 +79,8 @@ let name = 'Zak Ruvalcaba';
 let course = 'JavaScript';
 alert('Hello ' + name + '.\nWelcome to the ' + course + ' class!');
 
+//// STEP 15 - prompt the user's name
+let name = prompt('What is your name?');
+let course = 'JavaScript';
+alert('Hello ' + name + '.\nWelcome to the ' + course + ' class!');
 
