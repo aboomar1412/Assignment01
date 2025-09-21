@@ -62,3 +62,6 @@ console.log(typeof true);
 console.log(typeof {a:1});
 console.log(typeof undefined);
 
+//STEP 11 – Alert with concatenation
+alert("Hello " + "Zak Ruvalcaba" + ", welcome to the JavaScript class!");
+
