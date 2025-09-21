@@ -28,3 +28,9 @@ let numYourAge;
 let strReferralSource;
 let boolMayWeContactYou;
 
+//STEP 5 – 3 ways to declare & assign values
+let strFirstName = "Eias";             
+let strLastName; strLastName = "Homsi"; 
+let strCity = new String("San Diego"); 
+
+
