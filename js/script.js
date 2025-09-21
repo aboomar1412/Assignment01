@@ -93,3 +93,8 @@ alert('Hello ' + name + '.\nWelcome to the ' + course + ' class!');
 let x = 10;
 let y = 20;
 console.log(x + y);
+
+// STEP 18 - add and assign
+let x = 20;
+x += 20;
+console.log(x);
