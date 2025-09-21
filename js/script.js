@@ -48,3 +48,10 @@ console.log(result2);
 let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
 console.log(someString);
 
+//STEP 9 – Null vs Undefined
+let valueNull = null;
+console.log(valueNull); // null
+
+let valueUndefined;
+console.log(valueUndefined); // undefined
+
