@@ -43,3 +43,8 @@ console.log(result1);
 
 let result2 = 5 + true; 
 console.log(result2); 
+
+//STEP 8 – Fix string literal
+let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I\'m not sure about the former."';
+console.log(someString);
+
