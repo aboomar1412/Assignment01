@@ -6,14 +6,14 @@ let summerMonth;
 let myLibraryFunction;
 
 //STEP 2 – Literal expressions
-console.log(42);              // numeric
-console.log("Hello World");   // string
-console.log(true);            // boolean
-console.log(null);            // null
+console.log(42);
+console.log("Hello World");
+console.log(true);         
+console.log(null);      
 
 //STEP 3 – Complex expressions
-let sum = (5 + 10) * 2;      // arithmetic expression
-let greeting = "Hello " + "World";  // string concatenation
+let sum = (5 + 10) * 2;
+let greeting = "Hello " + "World";
 console.log(sum);
 console.log(greeting);
 
@@ -30,12 +30,12 @@ let boolMayWeContactYou;
 
 //STEP 5 – 3 ways to declare & assign values
 let strFirstName = "Eias";             
-let strLastName; strLastName = "Homsi"; 
+let strLastName; strLastName = "Alhomsi"; 
 let strCity = new String("San Diego"); 
 
 //STEP 6 – Number + string
 let mixed = 10 + " years";
-console.log(mixed); // "10 years"
+console.log(mixed);
 
 //STEP 7 – Boolean + string, Number + Boolean
 let result1 = true + " is truthy";
@@ -50,8 +50,15 @@ console.log(someString);
 
 //STEP 9 – Null vs Undefined
 let valueNull = null;
-console.log(valueNull); // null
+console.log(valueNull);
 
 let valueUndefined;
-console.log(valueUndefined); // undefined
+console.log(valueUndefined);
+
+//STEP 10 – typeof operator
+console.log(typeof "hello");
+console.log(typeof 123);
+console.log(typeof true);
+console.log(typeof {a:1});
+console.log(typeof undefined);
 
