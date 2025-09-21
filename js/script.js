@@ -113,3 +113,6 @@ console.log(x);
 let result1 = (10 > 5) && (true);
 console.log(result1);
 
+// STEP 22 - set of Comparison and Logical operators/false
+let result2 = (5 < 3) || (100 === '100');
+console.log(result2);
